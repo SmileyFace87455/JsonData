@@ -1,0 +1,50 @@
+[
+    {
+        "animalID": 1,
+        "animalName": "Rory",
+        "animalPic": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/red-deer.webp",
+        "animalAge": "7",
+        "animalType": "Mammal",
+        "animalSpecies": "Red Deer"
+    },
+    {
+        "animalID": 2,
+        "animalName": "Sophie",
+        "animalPic": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/scottish-wildcat.webp",
+        "animalAge": "5",
+        "animalType": "Mammal",
+        "animalSpecies": "Scottish Wildcat"
+    },
+    {
+        "animalID": 3,
+        "animalName": "Penelope",
+        "animalPic": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/pine-marten.webp",
+        "animalAge": "3",
+        "animalType": "Mammal",
+        "animalSpecies": "Pine Marten"
+    },
+    {
+        "animalID": 4,
+        "animalName": "Garry",
+        "animalPic": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/golden-eagle.webp",
+        "animalAge": "6",
+        "animalType": "Bird",
+        "animalSpecies": "Golden Eagle"
+    },
+    {
+        "animalID": 5,
+        "animalName": "Rufus",
+        "animalPic": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/red-squirrel.webp",
+        "animalAge": "2",
+        "animalType": "Mammal",
+        "animalSpecies": "Red Squirrel"
+    },
+    {
+        "animalID": 6,
+        "animalName": "Arianna",
+        "animalPic": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/atlantic-puffin.webp",
+        "animalAge": "4",
+        "animalType": "Bird",
+        "animalSpecies": "Atlantic Puffin"
+    }
+]
