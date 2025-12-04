@@ -1,50 +1,56 @@
 [
     {
-        "animalID": 1,
-        "animalName": "Rory",
-        "animalPic": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/red-deer.webp",
-        "animalAge": "7",
-        "animalType": "Mammal",
-        "animalSpecies": "Red Deer"
+        "id": 1,
+        "name": "Rory",
+        "pictureSrc": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/red-deer.webp",
+        "age": "7",
+        "type": "Mammal",
+        "species": "Red Deer",
+        "sponserPrice": "10.99"
     },
     {
-        "animalID": 2,
-        "animalName": "Sophie",
-        "animalPic": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/scottish-wildcat.webp",
-        "animalAge": "5",
-        "animalType": "Mammal",
-        "animalSpecies": "Scottish Wildcat"
+        "id": 2,
+        "name": "Sophie",
+        "pictureSrc": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/scottish-wildcat.webp",
+        "age": "5",
+        "type": "Mammal",
+        "species": "Scottish Wildcat",
+        "sponserPrice": "4.99"
     },
     {
-        "animalID": 3,
-        "animalName": "Penelope",
-        "animalPic": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/pine-marten.webp",
-        "animalAge": "3",
-        "animalType": "Mammal",
-        "animalSpecies": "Pine Marten"
+        "id": 3,
+        "name": "Penelope",
+        "pictureSrc": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/pine-marten.webp",
+        "age": "3",
+        "type": "Mammal",
+        "species": "Pine Marten",
+        "sponserPrice": "3.99"
     },
     {
-        "animalID": 4,
-        "animalName": "Garry",
-        "animalPic": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/golden-eagle.webp",
-        "animalAge": "6",
-        "animalType": "Bird",
-        "animalSpecies": "Golden Eagle"
+        "id": 4,
+        "name": "Garry",
+        "pictureSrc": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/golden-eagle.webp",
+        "age": "6",
+        "type": "Bird",
+        "species": "Golden Eagle",
+        "sponserPrice": "7.99"
     },
     {
-        "animalID": 5,
-        "animalName": "Rufus",
-        "animalPic": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/red-squirrel.webp",
-        "animalAge": "2",
-        "animalType": "Mammal",
-        "animalSpecies": "Red Squirrel"
+        "id": 5,
+        "name": "Rufus",
+        "pictureSrc": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/red-squirrel.webp",
+        "age": "2",
+        "type": "Mammal",
+        "species": "Red Squirrel",
+        "sponserPrice": "2.99"
     },
     {
-        "animalID": 6,
-        "animalName": "Arianna",
-        "animalPic": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/atlantic-puffin.webp",
-        "animalAge": "4",
-        "animalType": "Bird",
-        "animalSpecies": "Atlantic Puffin"
+        "id": 6,
+        "name": "Arianna",
+        "pictureSrc": "https://raw.githubusercontent.com/SmileyFace87455/JsonData/refs/heads/main/images/atlantic-puffin.webp",
+        "age": "4",
+        "type": "Bird",
+        "species": "Atlantic Puffin",
+        "sponserPrice": "9.99"
     }
 ]
